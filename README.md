@@ -1,5 +1,5 @@
 # Healthcare Dashboard 
-Power BI Project End to End Healthcare Dashboard
+End to End Healthcare Dashboard using PowerBI
 
 ## Project Goals
 1. Track current status of patient waiting list.
