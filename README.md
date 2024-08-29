@@ -1,5 +1,7 @@
-# Sales-Data-Analysis
- Build a Power BI dashboard that can give real time sales insights.
+# Healthcare Dashboard 
+Power BI Project End to End Healthcare Dashboard
 
-## Problem Statement
-Our case study is based on a computer hardware business which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project and he would like to build Power BI dashboard that can give him real time sales insights.
+## Project Goals
+1. Track current status of patient waiting list.
+2. Analyze historical monthly trend of waiting list in Inpatient and Outpatient Categories.
+3. Detailed speciality level & age profile analysis.
